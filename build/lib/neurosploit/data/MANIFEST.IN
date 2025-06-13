@@ -1,0 +1,2 @@
+include neurosploit/data/*.txt
+include neurosploit/prompts/*.txt

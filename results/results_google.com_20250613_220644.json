@@ -1,0 +1,1137 @@
+{
+  "domain": "google.com",
+  "timestamp": "2025-06-13T22:06:44.081666",
+  "total_subdomains_found": 110,
+  "live_subdomains_count": 32,
+  "subdomains": [
+    [
+      "reseed.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "apps-secure-data-connector.google.com",
+      "Unknown"
+    ],
+    [
+      "upload.video.google.com",
+      "Unknown"
+    ],
+    [
+      "news.freezone.google.com",
+      "Unknown"
+    ],
+    [
+      "ecc-test.sandbox.google.com",
+      "Unknown"
+    ],
+    [
+      "soaproxyprod01.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "mail.google.com",
+      "172.217.24.5"
+    ],
+    [
+      "alt2.aspmx.l.google.com",
+      "Unknown"
+    ],
+    [
+      "*.spdy-proxy.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "mygeist.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "spdy-proxy-debug.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "m.gutsdev.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "shop.google.com",
+      "74.125.68.92"
+    ],
+    [
+      "mtv-da-1.ad.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "mail.freezone.google.com",
+      "Unknown"
+    ],
+    [
+      "aarjav-b480g7k2ab9@checkout.google.com",
+      "Unknown"
+    ],
+    [
+      "alt2.gmr-smtp-in.l.google.com",
+      "Unknown"
+    ],
+    [
+      "admin.google.com",
+      "142.251.223.238"
+    ],
+    [
+      "api.google.com",
+      "142.251.222.164"
+    ],
+    [
+      "answers.google.com",
+      "Unknown"
+    ],
+    [
+      "alt3.gmr-smtp-in.l.google.com",
+      "Unknown"
+    ],
+    [
+      "www.google.com",
+      "Unknown"
+    ],
+    [
+      "m.google.com",
+      "142.251.221.171"
+    ],
+    [
+      "alt4.aspmx.l.google.com",
+      "Unknown"
+    ],
+    [
+      "email.google.com",
+      "142.251.223.14"
+    ],
+    [
+      "mtv-da.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "misc-sni.google.com",
+      "Unknown"
+    ],
+    [
+      "search.flexpack.google.com",
+      "Unknown"
+    ],
+    [
+      "download.google.com",
+      "142.250.77.132"
+    ],
+    [
+      "sandbox.google.com",
+      "74.125.200.81"
+    ],
+    [
+      "soaproxytest01.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "www.google.com",
+      "142.251.222.196"
+    ],
+    [
+      "mail.flexpack.google.com",
+      "Unknown"
+    ],
+    [
+      "jmt0.google.com",
+      "Unknown"
+    ],
+    [
+      "freezone.accounts.google.com",
+      "Unknown"
+    ],
+    [
+      "da.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "spdy-proxy.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "flexpack.google.com",
+      "Unknown"
+    ],
+    [
+      "twd-da.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "glass-eur.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "login.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "audioads.google.com",
+      "Unknown"
+    ],
+    [
+      "*.vp.video.l.google.com",
+      "Unknown"
+    ],
+    [
+      "m.guts.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "freezone.mail.google.com",
+      "Unknown"
+    ],
+    [
+      "help.google.com",
+      "142.251.223.14"
+    ],
+    [
+      "ads-compare.eem.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "hosted-id.google.com",
+      "Unknown"
+    ],
+    [
+      "plus.flexpack.google.com",
+      "Unknown"
+    ],
+    [
+      "hyd-da.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "alt4.gmail-smtp-in.l.google.com",
+      "Unknown"
+    ],
+    [
+      "mtalk.google.com",
+      "Unknown"
+    ],
+    [
+      "www.flexpack.google.com",
+      "Unknown"
+    ],
+    [
+      "da.ext.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "cert-test.sandbox.google.com",
+      "Unknown"
+    ],
+    [
+      "search.freezone.google.com",
+      "Unknown"
+    ],
+    [
+      "gmail.google.com",
+      "Unknown"
+    ],
+    [
+      "accounts.flexpack.google.com",
+      "Unknown"
+    ],
+    [
+      "services.google.com",
+      "Unknown"
+    ],
+    [
+      "smtp.google.com",
+      "64.233.170.27"
+    ],
+    [
+      "news.google.com",
+      "142.251.43.78"
+    ],
+    [
+      "glass.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "alt1.aspmx.l.google.com",
+      "Unknown"
+    ],
+    [
+      "alt4.gmr-smtp-in.l.google.com",
+      "Unknown"
+    ],
+    [
+      "alt1.gmr-smtp-in.l.google.com",
+      "Unknown"
+    ],
+    [
+      "freezone.google.com",
+      "Unknown"
+    ],
+    [
+      "gaiastaging.freezone.google.com",
+      "Unknown"
+    ],
+    [
+      "glass-mtv.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "glass-twd.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "alt2.gmail-smtp-in.l.google.com",
+      "Unknown"
+    ],
+    [
+      "twdsalesgsa.twd.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "*.glass.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "gmr-smtp-in.l.google.com",
+      "Unknown"
+    ],
+    [
+      "m.google.com",
+      "Unknown"
+    ],
+    [
+      "wifi.google.com",
+      "Unknown"
+    ],
+    [
+      "alt3.gmail-smtp-in.l.google.com",
+      "Unknown"
+    ],
+    [
+      "adwords.google.com",
+      "Unknown"
+    ],
+    [
+      "freezone.m.google.com",
+      "Unknown"
+    ],
+    [
+      "gaiastaging.flexpack.google.com",
+      "Unknown"
+    ],
+    [
+      "mail.google.com",
+      "Unknown"
+    ],
+    [
+      "ns2.google.com",
+      "216.239.34.10"
+    ],
+    [
+      "mygeist2010.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "ns1.google.com",
+      "216.239.32.10"
+    ],
+    [
+      "talk.google.com",
+      "Unknown"
+    ],
+    [
+      "dg.video.google.com",
+      "Unknown"
+    ],
+    [
+      "accounts.freezone.google.com",
+      "Unknown"
+    ],
+    [
+      "plus.freezone.google.com",
+      "Unknown"
+    ],
+    [
+      "ns3.google.com",
+      "216.239.36.10"
+    ],
+    [
+      "blog.google.com",
+      "142.251.43.137"
+    ],
+    [
+      "checkout.google.com",
+      "Unknown"
+    ],
+    [
+      "*.google.com",
+      "Unknown"
+    ],
+    [
+      "ns.google.com",
+      "216.239.32.10"
+    ],
+    [
+      "alt3.aspmx.l.google.com",
+      "Unknown"
+    ],
+    [
+      "eggroll.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "accounts.google.com",
+      "Unknown"
+    ],
+    [
+      "onex.wifi.google.com",
+      "Unknown"
+    ],
+    [
+      "mtv-da.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "fra-da.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "hot-da.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "mx.google.com",
+      "Unknown"
+    ],
+    [
+      "gmail-smtp-in.l.google.com",
+      "Unknown"
+    ],
+    [
+      "alt1.gmail-smtp-in.l.google.com",
+      "Unknown"
+    ],
+    [
+      "www.freezone.google.com",
+      "Unknown"
+    ],
+    [
+      "cod.ext.google.com",
+      "Unknown"
+    ],
+    [
+      "proxyconfig.corp.google.com",
+      "Unknown"
+    ],
+    [
+      "vpn.google.com",
+      "64.9.224.70"
+    ],
+    [
+      "aspmx.l.google.com",
+      "Unknown"
+    ],
+    [
+      "misc.google.com",
+      "Unknown"
+    ],
+    [
+      "sandbox.google.com",
+      "Unknown"
+    ],
+    [
+      "uberproxy-nocert.corp.google.com",
+      "Unknown"
+    ]
+  ],
+  "live_subdomains": [
+    {
+      "subdomain": "ecc-test.sandbox.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "ECC-capable Certificate Success",
+      "server": "sffe",
+      "technology": [
+        "Missing security headers: x-frame-options"
+      ],
+      "response_time": 0.392616,
+      "content_length": 179
+    },
+    {
+      "subdomain": "api.google.com",
+      "ip": "142.251.222.164",
+      "status_code": 404,
+      "protocol": "https",
+      "title": "Error 404 (Not Found)!!1",
+      "server": "Unknown",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 0.446901,
+      "content_length": 1561,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "upload.video.google.com",
+      "ip": "Unknown",
+      "status_code": 404,
+      "protocol": "https",
+      "title": "Error 404 (Not Found)!!1",
+      "server": "Unknown",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 0.52106,
+      "content_length": 1561
+    },
+    {
+      "subdomain": "mail.google.com",
+      "ip": "172.217.24.5",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Gmail",
+      "server": "ESF",
+      "technology": [],
+      "response_time": 0.106084,
+      "content_length": 767170,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "www.google.com",
+      "ip": "142.251.222.196",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google",
+      "server": "gws",
+      "technology": [
+        "Missing security headers: x-content-type-options"
+      ],
+      "response_time": 0.171572,
+      "content_length": 277930,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "admin.google.com",
+      "ip": "142.251.223.238",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Sign in - Google Accounts",
+      "server": "ESF",
+      "technology": [
+        "Vue.js"
+      ],
+      "response_time": 0.104723,
+      "content_length": 766988,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "jmt0.google.com",
+      "ip": "Unknown",
+      "status_code": 404,
+      "protocol": "https",
+      "title": "Error 404 (Not Found)!!1",
+      "server": "Unknown",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 1.277502,
+      "content_length": 1561
+    },
+    {
+      "subdomain": "answers.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google Answers",
+      "server": "sffe",
+      "technology": [
+        "Missing security headers: x-frame-options"
+      ],
+      "response_time": 0.21658,
+      "content_length": 2912
+    },
+    {
+      "subdomain": "email.google.com",
+      "ip": "142.251.223.14",
+      "status_code": 404,
+      "protocol": "https",
+      "title": "Error 404 (Not Found)!!1",
+      "server": "Unknown",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 5.485312,
+      "content_length": 1561,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "www.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google",
+      "server": "gws",
+      "technology": [
+        "Missing security headers: x-content-type-options"
+      ],
+      "response_time": 5.343455,
+      "content_length": 277551
+    },
+    {
+      "subdomain": "login.corp.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google Single Sign On: Sign into corp",
+      "server": "ESF",
+      "technology": [],
+      "response_time": 0.357163,
+      "content_length": 7727
+    },
+    {
+      "subdomain": "download.google.com",
+      "ip": "142.250.77.132",
+      "status_code": 404,
+      "protocol": "https",
+      "title": "Error 404 (Not Found)!!1",
+      "server": "Unknown",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 5.380919,
+      "content_length": 1561,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "audioads.google.com",
+      "ip": "Unknown",
+      "status_code": 404,
+      "protocol": "https",
+      "title": "Error 404 (Not Found)!!1",
+      "server": "Unknown",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 0.583674,
+      "content_length": 1561
+    },
+    {
+      "subdomain": "sandbox.google.com",
+      "ip": "74.125.200.81",
+      "status_code": 404,
+      "protocol": "https",
+      "title": "Error 404 (Not Found)!!1",
+      "server": "Unknown",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 5.50427,
+      "content_length": 1561,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "m.google.com",
+      "ip": "142.251.221.171",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google\u00e2\u0080\u0099s products and services - About Google",
+      "server": "sffe",
+      "technology": [
+        "Angular",
+        "Missing security headers: x-frame-options"
+      ],
+      "response_time": 0.414466,
+      "content_length": 886845,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "m.guts.corp.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "m.guts.corp.google.com - Google Single Sign On: Sign into corp",
+      "server": "ESF",
+      "technology": [],
+      "response_time": 0.437036,
+      "content_length": 8575
+    },
+    {
+      "subdomain": "m.gutsdev.corp.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Sign in - Google Accounts",
+      "server": "ESF",
+      "technology": [],
+      "response_time": 0.165831,
+      "content_length": 745963
+    },
+    {
+      "subdomain": "shop.google.com",
+      "ip": "74.125.68.92",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google Shopping - Shop Online, Compare Prices &amp; Where to Buy",
+      "server": "ESF",
+      "technology": [],
+      "response_time": 0.418979,
+      "content_length": 799083,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "cert-test.sandbox.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Test Success",
+      "server": "sffe",
+      "technology": [
+        "Missing security headers: x-frame-options"
+      ],
+      "response_time": 0.592545,
+      "content_length": 639
+    },
+    {
+      "subdomain": "services.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google",
+      "server": "gws",
+      "technology": [
+        "Missing security headers: x-content-type-options"
+      ],
+      "response_time": 0.275663,
+      "content_length": 277864
+    },
+    {
+      "subdomain": "news.google.com",
+      "ip": "142.251.43.78",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google News",
+      "server": "ESF",
+      "technology": [
+        "Angular",
+        "WordPress"
+      ],
+      "response_time": 0.116263,
+      "content_length": 1709576,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "gmail.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Gmail",
+      "server": "ESF",
+      "technology": [],
+      "response_time": 0.153706,
+      "content_length": 767410
+    },
+    {
+      "subdomain": "m.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google\u00e2\u0080\u0099s products and services - About Google",
+      "server": "sffe",
+      "technology": [
+        "Angular",
+        "Missing security headers: x-frame-options"
+      ],
+      "response_time": 0.289189,
+      "content_length": 886845
+    },
+    {
+      "subdomain": "wifi.google.com",
+      "ip": "Unknown",
+      "status_code": 404,
+      "protocol": "https",
+      "title": "Error 404 (Not Found)!!1",
+      "server": "Unknown",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 0.505859,
+      "content_length": 1561
+    },
+    {
+      "subdomain": "mail.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Gmail",
+      "server": "ESF",
+      "technology": [],
+      "response_time": 0.135972,
+      "content_length": 767360
+    },
+    {
+      "subdomain": "help.google.com",
+      "ip": "142.251.223.14",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google Help",
+      "server": "support-content-ui",
+      "technology": [
+        "Vue.js"
+      ],
+      "response_time": 5.780691,
+      "content_length": 1151079,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "adwords.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Google Ads - Reach Customers &amp; Sell More with Online Advertising",
+      "server": "ESF",
+      "technology": [],
+      "response_time": 0.628179,
+      "content_length": 470026
+    },
+    {
+      "subdomain": "dg.video.google.com",
+      "ip": "Unknown",
+      "status_code": 404,
+      "protocol": "https",
+      "title": "Error 404 (Not Found)!!1",
+      "server": "Unknown",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 0.634947,
+      "content_length": 1561
+    },
+    {
+      "subdomain": "accounts.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "Sign in - Google Accounts",
+      "server": "ESF",
+      "technology": [
+        "Vue.js"
+      ],
+      "response_time": 0.094929,
+      "content_length": 766983
+    },
+    {
+      "subdomain": "blog.google.com",
+      "ip": "142.251.43.137",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "The Keyword | Google Product and Technology News and Stories",
+      "server": "Google Frontend",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 6.784324,
+      "content_length": 359005,
+      "open_ports": [
+        80,
+        443
+      ],
+      "ssl_cert": {
+        "subject": null,
+        "issuer": null,
+        "version": null,
+        "serialNumber": null,
+        "notBefore": null,
+        "notAfter": null
+      }
+    },
+    {
+      "subdomain": "proxyconfig.corp.google.com",
+      "ip": "Unknown",
+      "status_code": 200,
+      "protocol": "https",
+      "title": "proxyconfig.corp.google.com - Google Single Sign On: Sign into corp",
+      "server": "ESF",
+      "technology": [],
+      "response_time": 0.430341,
+      "content_length": 8604
+    },
+    {
+      "subdomain": "sandbox.google.com",
+      "ip": "Unknown",
+      "status_code": 404,
+      "protocol": "https",
+      "title": "Error 404 (Not Found)!!1",
+      "server": "Unknown",
+      "technology": [
+        "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options"
+      ],
+      "response_time": 0.526851,
+      "content_length": 1561
+    }
+  ],
+  "summary": {
+    "technologies": {
+      "Missing security headers: x-frame-options": 5,
+      "Missing security headers: x-frame-options, x-xss-protection, x-content-type-options": 11,
+      "Missing security headers: x-content-type-options": 3,
+      "Vue.js": 3,
+      "Angular": 3,
+      "WordPress": 1
+    },
+    "security_issues": [
+      {
+        "subdomain": "ecc-test.sandbox.google.com",
+        "issues": [
+          "Missing security headers",
+          "Development/staging environment exposed"
+        ]
+      },
+      {
+        "subdomain": "api.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "upload.video.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "www.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "jmt0.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "answers.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "email.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "www.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "download.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "audioads.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "sandbox.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "m.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "m.gutsdev.corp.google.com",
+        "issues": [
+          "Development/staging environment exposed"
+        ]
+      },
+      {
+        "subdomain": "cert-test.sandbox.google.com",
+        "issues": [
+          "Missing security headers",
+          "Development/staging environment exposed"
+        ]
+      },
+      {
+        "subdomain": "services.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "m.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "wifi.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "dg.video.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "blog.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      },
+      {
+        "subdomain": "sandbox.google.com",
+        "issues": [
+          "Missing security headers"
+        ]
+      }
+    ],
+    "recommendations": [
+      "Implement proper security headers (X-Frame-Options, X-XSS-Protection, etc.)",
+      "Ensure all subdomains use HTTPS with valid certificates",
+      "Remove or restrict access to development/staging environments",
+      "Implement proper access controls for admin interfaces",
+      "Regular security scanning and penetration testing",
+      "Monitor certificate transparency logs for unauthorized certificates"
+    ]
+  }
+}
