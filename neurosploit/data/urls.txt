@@ -1,0 +1,3 @@
+glean.txt
+google.com
+yahoo.com
