@@ -1,5 +1,0 @@
-include README.md
-include LICENSE
-include requirements.txt
-recursive-include neurosploit/data *.txt
-recursive-include neurosploit/prompts *.txt

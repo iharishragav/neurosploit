@@ -1,7 +1,0 @@
-requests
-dnspython
-termcolor
-pyfiglet
-whois
-urllib3
-setuptools
