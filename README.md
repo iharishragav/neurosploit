@@ -55,14 +55,17 @@ Install and run a model:
 
 ```bash
 ollama serve
-ollama run phi #optional
+ollama run phi
+/*ollama run mistral
+ollama run gemma        # choose alternate model if prefer higher accuracy 
+ollama llama3.2*/
 ```
 🧪 Usage
 ```bash
 python cli.py
 ```
 ### 5.build pkg and run
-from root dir(\neurospoit)
+from root dir(..\neurospoit)
 ```
 pip install .
 neurosploit 
